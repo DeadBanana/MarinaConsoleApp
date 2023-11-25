@@ -1,0 +1,10 @@
+C:\Users\IS212-1\source\repos\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\IS212-1\source\repos\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\IS212-1\source\repos\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\IS212-1\source\repos\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\IS212-1\source\repos\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\IS212-1\source\repos\BankSystem\bin\Debug\NormalName.dll
+C:\Users\IS212-1\source\repos\BankSystem\bin\Debug\NormalName.pdb
+C:\Users\IS212-1\source\repos\BankSystem\obj\Debug\BankSystem.csproj.CopyComplete
+C:\Users\IS212-1\source\repos\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\IS212-1\source\repos\BankSystem\obj\Debug\BankSystem.pdb
